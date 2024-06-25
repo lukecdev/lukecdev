@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 ### My name is Luke
 
 #### Thank you for visiting my Github Profile!
+
+<div align="left">
+
+<h1 align="center">Hi, I'm Luke C </h1>
+
+## Badges
+<a href="https://api.eu.badgr.io/public/assertions/YKVfH5DATJOEO-lU4LC3dQ"><img width="120px" height="120px"></a><p>April Hackathon</p>
