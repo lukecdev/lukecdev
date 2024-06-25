@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Luke C </h1>
 
 ## Badges
-<a href="https://api.eu.badgr.io/public/assertions/YKVfH5DATJOEO-lU4LC3dQ"><img width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;"><p>April Hackathon: 1st place</p>
+<a href="https://eu.badgr.com/public/assertions/YKVfH5DATJOEO-lU4LC3dQ?identity__email=courtney.luke@outlook.com"><img width="120px" height="120px"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;"><p>April Hackathon: 1st place</p>
